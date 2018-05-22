@@ -1,7 +1,7 @@
 # RoundRobinLinkedList
 This java program implements the linked list data structure in order to replicate the process of Round Robin CPU scheduling. 
 
-## What is Round Robin Scheduling
+## What is Round Robin Scheduling?
 Round Robin scheduling is a type of CPU process scheduling where there is a particular "Time quantum" each process is run for before moving to the next process. This type of scheduling performs that action in a circular motion until all of the processes are done running (in other words, when the CPU Burst Time Remaining reaches 0). 
 
 ## How does this program implement this?
