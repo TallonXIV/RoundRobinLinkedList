@@ -1,4 +1,4 @@
-# RoundRobinLinkedList
+# Round Robin Linked List (2018)
 This java program implements the linked list data structure in order to replicate the process of Round Robin CPU scheduling. 
 
 ## What is Round Robin Scheduling?
